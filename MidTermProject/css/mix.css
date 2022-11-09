@@ -1,0 +1,18 @@
+/* td:hover{
+	background-color: gray;
+} */
+.header{
+	background-color: #9ED2C6;
+}
+.pos{
+	margin-right: 20px;;
+}
+hr{
+	margin-top: 10px;
+}
+.glow:hover{
+	background-color: #F7ECDE;
+}
+.bottom{
+	margin-top: 300px;
+}
