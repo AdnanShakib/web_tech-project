@@ -1,1 +1,1 @@
-# web_tech-project
+# This project was done during Technology Course. This is a basic Airline Controlling System using php for backend, and html, css, jquery for frontend. 
